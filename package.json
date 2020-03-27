@@ -1,0 +1,24 @@
+{
+  "name": "project-todo",
+  "version": "1.0.0",
+  "description": "Pratice of JavaScript creating a TODO application",
+  "main": "todo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisnetzEU/javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "TODO",
+    "webapp"
+  ],
+  "author": "Giselle Montero, Antonio Chillarón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisnetzEU/javascript/issues"
+  },
+  "homepage": "https://github.com/gisnetzEU/javascript/ProjectTODO#readme"
+}
